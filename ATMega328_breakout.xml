@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Work\CAD\MCU_Board\HSD_LSD_SENS\ATMega328_breakout\ATMega328_breakout.kicad_sch</source>
+    <date>2022/08/04 23:26:13</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ATMega328_breakout.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC1">
+      <value>ATMEGA328PB-AN</value>
+      <footprint>QFP80P900X900X120-32N</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf</datasheet>
+      <fields>
+        <field name="Description">MCU 8-bit ATmega AVR RISC 32KB Flash 2.5V/3.3V/5V 32-Pin TQFP Tray</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">ATMEGA328PB-AN</field>
+        <field name="Mouser Part Number">556-ATMEGA328PB-AN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATMEGA328PB-AN?qs=jy4bLUHv09gDoS2J01KCIw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ATMEGA328PB-AN" description="MCU 8-bit ATmega AVR RISC 32KB Flash 2.5V/3.3V/5V 32-Pin TQFP Tray"/>
+      <property name="Description" value="MCU 8-bit ATmega AVR RISC 32KB Flash 2.5V/3.3V/5V 32-Pin TQFP Tray"/>
+      <property name="Height" value="1.2"/>
+      <property name="Mouser Part Number" value="556-ATMEGA328PB-AN"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATMEGA328PB-AN?qs=jy4bLUHv09gDoS2J01KCIw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="ATMEGA328PB-AN"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATMega328_breakout.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>283c990c-ae5a-4e41-a3ad-b40ca29fe90e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>5-146278-8</value>
+      <footprint>HDRV8W56P0X254_1X8_1991X234X872P</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/5-146278-8.pdf</datasheet>
+      <fields>
+        <field name="Description">08 MODII HDR SRST B/A .100CL</field>
+        <field name="Height">8.72</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">5-146278-8</field>
+        <field name="Mouser Part Number">571-5-146278-8</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="5-146278-8" description="08 MODII HDR SRST B/A .100CL"/>
+      <property name="Description" value="08 MODII HDR SRST B/A .100CL"/>
+      <property name="Height" value="8.72"/>
+      <property name="Mouser Part Number" value="571-5-146278-8"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="5-146278-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATMega328_breakout.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efadcb34-53ea-4c03-b380-beb23e60eebf</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>5-146278-8</value>
+      <footprint>HDRV8W56P0X254_1X8_1991X234X872P</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/5-146278-8.pdf</datasheet>
+      <fields>
+        <field name="Description">08 MODII HDR SRST B/A .100CL</field>
+        <field name="Height">8.72</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">5-146278-8</field>
+        <field name="Mouser Part Number">571-5-146278-8</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="5-146278-8" description="08 MODII HDR SRST B/A .100CL"/>
+      <property name="Description" value="08 MODII HDR SRST B/A .100CL"/>
+      <property name="Height" value="8.72"/>
+      <property name="Mouser Part Number" value="571-5-146278-8"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="5-146278-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATMega328_breakout.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6b60ba2-e900-45a7-8a28-a0f50cbb4716</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>5-146278-8</value>
+      <footprint>HDRV8W56P0X254_1X8_1991X234X872P</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/5-146278-8.pdf</datasheet>
+      <fields>
+        <field name="Description">08 MODII HDR SRST B/A .100CL</field>
+        <field name="Height">8.72</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">5-146278-8</field>
+        <field name="Mouser Part Number">571-5-146278-8</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="5-146278-8" description="08 MODII HDR SRST B/A .100CL"/>
+      <property name="Description" value="08 MODII HDR SRST B/A .100CL"/>
+      <property name="Height" value="8.72"/>
+      <property name="Mouser Part Number" value="571-5-146278-8"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="5-146278-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATMega328_breakout.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd82fd04-e969-43fc-91cd-f9b168211b79</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>5-146278-8</value>
+      <footprint>HDRV8W56P0X254_1X8_1991X234X872P</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/5-146278-8.pdf</datasheet>
+      <fields>
+        <field name="Description">08 MODII HDR SRST B/A .100CL</field>
+        <field name="Height">8.72</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">5-146278-8</field>
+        <field name="Mouser Part Number">571-5-146278-8</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="5-146278-8" description="08 MODII HDR SRST B/A .100CL"/>
+      <property name="Description" value="08 MODII HDR SRST B/A .100CL"/>
+      <property name="Height" value="8.72"/>
+      <property name="Mouser Part Number" value="571-5-146278-8"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8"/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="5-146278-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ATMega328_breakout.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20b6f547-8f23-4ca0-8198-b15b71fba76d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="SamacSys_Parts" part="5-146278-8">
+      <description>08 MODII HDR SRST B/A .100CL</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/5-146278-8.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">5-146278-8</field>
+        <field name="Footprint">HDRV8W56P0X254_1X8_1991X234X872P</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/5-146278-8.pdf</field>
+        <field name="Description">08 MODII HDR SRST B/A .100CL</field>
+        <field name="Height">8.72</field>
+        <field name="Mouser Part Number">571-5-146278-8</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=571-5-146278-8</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">5-146278-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="ATMEGA328PB-AN">
+      <description>MCU 8-bit ATmega AVR RISC 32KB Flash 2.5V/3.3V/5V 32-Pin TQFP Tray</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ATMEGA328PB-AN</field>
+        <field name="Footprint">QFP80P900X900X120-32N</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf</field>
+        <field name="Description">MCU 8-bit ATmega AVR RISC 32KB Flash 2.5V/3.3V/5V 32-Pin TQFP Tray</field>
+        <field name="Height">1.2</field>
+        <field name="Mouser Part Number">556-ATMEGA328PB-AN</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATMEGA328PB-AN?qs=jy4bLUHv09gDoS2J01KCIw%3D%3D</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">ATMEGA328PB-AN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="(OC2B/INT1/PTCXY)_PD3" type="passive"/>
+        <pin num="2" name="(XCK0/T0/PTCXY)_PD4" type="passive"/>
+        <pin num="3" name="(SDA1/ICP4/ACO/PTCXY)_PE0" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+        <pin num="5" name="GND_1" type="passive"/>
+        <pin num="6" name="(SCL1/T4/PTCXY)_PE1" type="passive"/>
+        <pin num="7" name="(XTAL1/TOSC1)_PB6" type="passive"/>
+        <pin num="8" name="(XTAL2/TOSC2)_PB7" type="passive"/>
+        <pin num="9" name="(OC0B/T1/PTCXY)_PD5" type="passive"/>
+        <pin num="10" name="(OC0A/PTCXY/AIN0)_PD6" type="passive"/>
+        <pin num="11" name="(PTCXY/AIN1)_PD7" type="passive"/>
+        <pin num="12" name="(ICP1/CLKO/PTCXY)_PB0" type="passive"/>
+        <pin num="13" name="(OC1A/PTCXY)_PB1" type="passive"/>
+        <pin num="14" name="(~{SS0}/OC1B/PTCXY)_PB2" type="passive"/>
+        <pin num="15" name="(MOSI0/TXD1/OC2A/PTCXY)_PB3" type="passive"/>
+        <pin num="16" name="(MISO0/RXD1/PTCXY)_PB4" type="passive"/>
+        <pin num="17" name="PB5_(PTCXY/XCK1/SCK0)" type="passive"/>
+        <pin num="18" name="AVCC" type="passive"/>
+        <pin num="19" name="PE2_(ADC6/PTCY/ICP3/~{SS1})" type="passive"/>
+        <pin num="20" name="AREF" type="passive"/>
+        <pin num="21" name="GND_2" type="passive"/>
+        <pin num="22" name="PE3_(ADC7/PTCY/T3/MOSI1)" type="passive"/>
+        <pin num="23" name="PC0_(ADC0/PTCY/MISO1)" type="passive"/>
+        <pin num="24" name="PC1_(ADC1/PTCY/SCK1)" type="passive"/>
+        <pin num="25" name="PC2_(ADC2/PTCY)" type="passive"/>
+        <pin num="26" name="PC3_(ADC3/PTCY)" type="passive"/>
+        <pin num="27" name="PC4_(ADC4/PTCY/SDA0)" type="passive"/>
+        <pin num="28" name="PC5_(ADC5/PTCY/SCL0)" type="passive"/>
+        <pin num="29" name="PC6_(~{RESET})" type="passive"/>
+        <pin num="30" name="PD0_(PTCXY/OC3A/RXD0)" type="passive"/>
+        <pin num="31" name="PD1_(PTCXY/OC4A/TXD0)" type="passive"/>
+        <pin num="32" name="PD2_(PTCXY/INT0/OC3B/OC4B)" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Work/CAD/library/SamacSys_Parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="IC1" pin="21" pinfunction="GND_2" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="GND_1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="(OC2B/INT1/PTCXY)_PD3" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(IC1-Pad2)">
+      <node ref="IC1" pin="2" pinfunction="(XCK0/T0/PTCXY)_PD4" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(IC1-Pad3)">
+      <node ref="IC1" pin="3" pinfunction="(SDA1/ICP4/ACO/PTCXY)_PE0" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="(SCL1/T4/PTCXY)_PE1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="(XTAL1/TOSC1)_PB6" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(IC1-Pad8)">
+      <node ref="IC1" pin="8" pinfunction="(XTAL2/TOSC2)_PB7" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(IC1-Pad9)">
+      <node ref="IC1" pin="9" pinfunction="(OC0B/T1/PTCXY)_PD5" pintype="passive"/>
+      <node ref="J3" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(IC1-Pad10)">
+      <node ref="IC1" pin="10" pinfunction="(OC0A/PTCXY/AIN0)_PD6" pintype="passive"/>
+      <node ref="J3" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(IC1-Pad11)">
+      <node ref="IC1" pin="11" pinfunction="(PTCXY/AIN1)_PD7" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(IC1-Pad12)">
+      <node ref="IC1" pin="12" pinfunction="(ICP1/CLKO/PTCXY)_PB0" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(IC1-Pad13)">
+      <node ref="IC1" pin="13" pinfunction="(OC1A/PTCXY)_PB1" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(IC1-Pad14)">
+      <node ref="IC1" pin="14" pinfunction="(~{SS0}/OC1B/PTCXY)_PB2" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(IC1-Pad15)">
+      <node ref="IC1" pin="15" pinfunction="(MOSI0/TXD1/OC2A/PTCXY)_PB3" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(IC1-Pad16)">
+      <node ref="IC1" pin="16" pinfunction="(MISO0/RXD1/PTCXY)_PB4" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(IC1-Pad17)">
+      <node ref="IC1" pin="17" pinfunction="PB5_(PTCXY/XCK1/SCK0)" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(IC1-Pad18)">
+      <node ref="IC1" pin="18" pinfunction="AVCC" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(IC1-Pad19)">
+      <node ref="IC1" pin="19" pinfunction="PE2_(ADC6/PTCY/ICP3/~{SS1})" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(IC1-Pad20)">
+      <node ref="IC1" pin="20" pinfunction="AREF" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(IC1-Pad22)">
+      <node ref="IC1" pin="22" pinfunction="PE3_(ADC7/PTCY/T3/MOSI1)" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(IC1-Pad23)">
+      <node ref="IC1" pin="23" pinfunction="PC0_(ADC0/PTCY/MISO1)" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(IC1-Pad24)">
+      <node ref="IC1" pin="24" pinfunction="PC1_(ADC1/PTCY/SCK1)" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(IC1-Pad25)">
+      <node ref="IC1" pin="25" pinfunction="PC2_(ADC2/PTCY)" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(IC1-Pad26)">
+      <node ref="IC1" pin="26" pinfunction="PC3_(ADC3/PTCY)" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(IC1-Pad27)">
+      <node ref="IC1" pin="27" pinfunction="PC4_(ADC4/PTCY/SDA0)" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(IC1-Pad28)">
+      <node ref="IC1" pin="28" pinfunction="PC5_(ADC5/PTCY/SCL0)" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(IC1-Pad29)">
+      <node ref="IC1" pin="29" pinfunction="PC6_(~{RESET})" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(IC1-Pad30)">
+      <node ref="IC1" pin="30" pinfunction="PD0_(PTCXY/OC3A/RXD0)" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(IC1-Pad31)">
+      <node ref="IC1" pin="31" pinfunction="PD1_(PTCXY/OC4A/TXD0)" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(IC1-Pad32)">
+      <node ref="IC1" pin="32" pinfunction="PD2_(PTCXY/INT0/OC3B/OC4B)" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="VCC">
+      <node ref="IC1" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+  </nets>
+</export>
